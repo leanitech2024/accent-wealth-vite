@@ -42,7 +42,7 @@ export default defineConfig(({ command, mode, isSsrBuild, isPreview }) => {
   return {
     build: {
       chunkSizeWarningLimit: 1600,
-      outDir: 'build',
+      outDir: 'dist',
       minify: 'terser',
       manifest: true,
       sourcemap: false,
