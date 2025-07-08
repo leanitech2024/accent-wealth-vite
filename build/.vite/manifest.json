@@ -1,0 +1,18 @@
+{
+  "___commonjsHelpers__.js": {
+    "file": "js/__commonjsHelpers__.js",
+    "name": "__commonjsHelpers__"
+  },
+  "index.html": {
+    "file": "js/index.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "___commonjsHelpers__.js"
+    ],
+    "css": [
+      "assets/index.css"
+    ]
+  }
+}
