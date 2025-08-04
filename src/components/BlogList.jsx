@@ -16,7 +16,6 @@ const BlogList = () => {
   const totalPages = Math.ceil(sortedBlogs.length / postsPerPage);
 
   const paginate = (pageNumber) => {
-    
     setCurrentPage(pageNumber);
     scrollToTop();
   };
@@ -26,8 +25,8 @@ const BlogList = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-8 sm:mb-12">
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-            Investment Insights &{' '}
-            <span className="text-[#8a7208]">Expert Tips</span>
+            Expert Insights &{' '}
+            <span className="text-[#8a7208]"> Smarter Investments.</span>
           </h1>
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-3xl mx-auto px-4 sm:px-0">
             Ascent Wealth's Blog Stay informed with our latest articles on
