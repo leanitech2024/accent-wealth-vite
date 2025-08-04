@@ -29,8 +29,10 @@ const BlogList = () => {
             <span className="text-[#8a7208]"> Smarter Investments.</span>
           </h1>
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-3xl mx-auto px-4 sm:px-0">
-            Ascent Wealth's Blog Stay informed with our latest articles on
-            mutual funds, investment strategies, and financial planning
+            Navigate the markets with clarity and confidence. Our expert-curated
+            insights, strategic tips, and deep dives decode complex financial
+            trends into actionable guidance — helping you protect, grow, and
+            optimise your wealth.
           </p>
         </div>
 
