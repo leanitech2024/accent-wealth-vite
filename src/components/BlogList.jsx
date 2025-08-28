@@ -51,11 +51,11 @@ const BlogList = () => {
                 onClick={() => paginate(currentPage - 1)}
                 disabled={currentPage === 1}
                 className={`px-3 py-2 sm:px-4 sm:py-2 rounded-lg font-medium transition-colors duration-200 text-sm sm:text-base flex items-center gap-1
-                  ${
-                    currentPage === 1
-                      ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                      : 'bg-gray-200 text-gray-700 hover:bg-gray-300 cursor-pointer'
-                  }`}
+${
+  currentPage === 1
+    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+    : 'bg-gray-200 text-gray-700 hover:bg-gray-300 cursor-pointer'
+}`}
               >
                 <svg
                   className="w-3 h-3 sm:w-4 sm:h-4"
@@ -79,11 +79,11 @@ const BlogList = () => {
                   key={i + 1}
                   onClick={() => paginate(i + 1)}
                   className={`px-3 py-2 sm:px-4 sm:py-2 rounded-lg font-medium transition-colors cursor-pointer duration-200 text-sm sm:text-base
-                    ${
-                      currentPage === i + 1
-                        ? 'bg-[#8a7208] text-white'
-                        : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-                    }`}
+${
+  currentPage === i + 1
+    ? 'bg-[#8a7208] text-white'
+    : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+}`}
                 >
                   {i + 1}
                 </button>
@@ -94,11 +94,11 @@ const BlogList = () => {
                 onClick={() => paginate(currentPage + 1)}
                 disabled={currentPage === totalPages}
                 className={`px-3 py-2 sm:px-4 sm:py-2 rounded-lg font-medium transition-colors duration-200 text-sm sm:text-base flex items-center gap-1
-                  ${
-                    currentPage === totalPages
-                      ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                      : 'bg-gray-200 text-gray-700 hover:bg-gray-300 cursor-pointer'
-                  }`}
+${
+  currentPage === totalPages
+    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+    : 'bg-gray-200 text-gray-700 hover:bg-gray-300 cursor-pointer'
+}`}
               >
                 <span className="hidden sm:inline">Next</span>
                 <svg

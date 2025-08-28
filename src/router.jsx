@@ -5,9 +5,8 @@ import BlogDetail from './components/BlogDetails';
 import fetchBlogPostData from './data';
 import Loader from './components/Loader';
 
-
 const blogListLoader = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 300)); 
+  await new Promise((resolve) => setTimeout(resolve, 300));
   const data = await fetchBlogPostData();
 
   const sortedBlogs = [...data].sort((a, b) => {
@@ -19,7 +18,7 @@ const blogListLoader = async () => {
 };
 
 const blogDetailLoader = async ({ params }) => {
-  await new Promise((resolve) => setTimeout(resolve, 300)); 
+  await new Promise((resolve) => setTimeout(resolve, 300));
   const data = await fetchBlogPostData();
   const blog = data.find((b) => b.slug === params.slug);
 
@@ -33,13 +32,12 @@ const router = createBrowserRouter([
   {
     path: '/',
     element: <AppLayout />,
-    HydrateFallback:()=><Loader/>,
+    HydrateFallback: () => <Loader />,
     children: [
       {
         index: true,
         element: <BlogList />,
         loader: blogListLoader,
-       
       },
       {
         path: 'blog/:slug',
