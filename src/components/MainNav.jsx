@@ -12,7 +12,7 @@ const Navbar = () => {
     <section className="shadow-lg bg-white border-b-2 border-gray-200 sticky top-0 z-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <nav className="flex items-center justify-between h-20">
-          <Link to="https://www.ascentwealth.in/" className="flex-shrink-0">
+          <Link to="https://www.ascentwealth.in/" className="shrink-0">
             <img
               id="imgLogo"
               src="https://www.ascentwealth.in/Content/ascentwealth.in/UploadedImage/RealImage/32AscentWealth.jpg"
@@ -22,7 +22,7 @@ const Navbar = () => {
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden lg:flex flex-grow justify-end">
+          <div className="hidden lg:flex grow justify-end">
             <ul className="flex space-x-6 text-base font-medium items-center">
               <li className="py-2">
                 <Link

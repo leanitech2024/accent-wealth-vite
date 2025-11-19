@@ -15,7 +15,7 @@ const ContentRenderer = ({ content }) => {
                   ) : (
                     <strong
                       key={i}
-                      className="text-[#8a7208] font-semibold bg-gradient-to-r from-[#8a7208] to-[#6b5a06] bg-clip-text "
+                      className="text-[#8a7208] font-semibold bg-linear-to-r from-[#8a7208] to-[#6b5a06] bg-clip-text "
                     >
                       {part}
                     </strong>
@@ -52,7 +52,7 @@ const ContentRenderer = ({ content }) => {
             return (
               <div
                 key={index}
-                className="mb-8 bg-gradient-to-r from-gray-50 to-amber-50 rounded-xl p-6 border-l-4 border-[#8a7208] shadow-sm"
+                className="mb-8 bg-linear-to-r from-gray-50 to-amber-50 rounded-xl p-6 border-l-4 border-[#8a7208] shadow-sm"
               >
                 <ListTag
                   className={`space-y-4 ${
@@ -67,11 +67,11 @@ const ContentRenderer = ({ content }) => {
                       }`}
                     >
                       {isNumbered ? (
-                        <span className="flex-shrink-0 w-7 h-7 bg-gradient-to-r from-[#8a7208] to-[#6b5a06] rounded-full flex items-center justify-center text-white font-semibold text-sm mt-1">
+                        <span className="shrink-0 w-7 h-7 bg-linear-to-r from-[#8a7208] to-[#6b5a06] rounded-full flex items-center justify-center text-white font-semibold text-sm mt-1">
                           {i + 1}
                         </span>
                       ) : (
-                        <span className="flex-shrink-0 w-2 h-2 bg-gradient-to-r from-[#8a7208] to-[#6b5a06] rounded-full mt-3"></span>
+                        <span className="shrink-0 w-2 h-2 bg-linear-to-r from-[#8a7208] to-[#6b5a06] rounded-full mt-3"></span>
                       )}
                       <span className="flex-1">
                         {listItem.text.split('**').map((part, j) =>
@@ -103,7 +103,7 @@ const ContentRenderer = ({ content }) => {
                 <div className="overflow-x-auto">
                   <table className="min-w-full">
                     <thead>
-                      <tr className="bg-gradient-to-r from-[#8a7208] to-[#6b5a06] text-white">
+                      <tr className="bg-linear-to-r from-[#8a7208] to-[#6b5a06] text-white">
                         {item.headers.map((header, i) => (
                           <th
                             key={i}
@@ -143,7 +143,7 @@ const ContentRenderer = ({ content }) => {
           case 'quote':
             return (
               <blockquote key={index} className="mb-8 relative">
-                <div className="bg-gradient-to-r from-amber-50 to-yellow-50 border-l-4 border-[#8a7208] rounded-r-xl p-6 shadow-sm">
+                <div className="bg-linear-to-r from-amber-50 to-yellow-50 border-l-4 border-[#8a7208] rounded-r-xl p-6 shadow-sm">
                   <div className="relative">
                     <svg
                       className="absolute top-0 left-0 w-8 h-8 text-[#8a7208] opacity-25 -mt-2 -ml-2"

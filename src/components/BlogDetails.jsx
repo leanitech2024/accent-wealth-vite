@@ -28,7 +28,7 @@ const BlogDetails = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
-      <div className="relative h-64 sm:h-80 lg:h-96 bg-gradient-to-r from-[#8a7208] to-[#6b5a06] flex items-center justify-center">
+      <div className="relative h-64 sm:h-80 lg:h-96 bg-linear-to-r from-[#8a7208] to-[#6b5a06] flex items-center justify-center">
         <div className="absolute inset-0 bg-black opacity-20"></div>
         <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8">
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold mb-4 max-w-4xl leading-tight">
