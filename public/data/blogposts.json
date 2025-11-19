@@ -2,10 +2,15 @@
   {
     "id": "4775c16f-734c-4c18-a277-067f259e0114",
     "title": "Myth or Reality? Revealing the Truths behind Investing in Mutual Funds",
-    "slug": "1720076911674",
+    "slug": "myth-or-reality-revealing-the-truths-behind-investing-in-mutual-funds",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1696657260mutualfund-01.png",
     "date": "July 4, 2025",
-    "categories": ["Mutual Funds", "Investing", "Myths"],
+    "createdAt": "1720076911674",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Myths"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83,10 +88,15 @@
   {
     "id": "c9a500bf-c06f-4e3c-8ad1-dc319a526657",
     "title": "Explore the World of Mutual Fund Categories: A Deep Dive into Large, Mid, and Small-Cap Funds",
-    "slug": "1720076980000",
+    "slug": "explore-the-world-of-mutual-fund-categories-a-deep-dive-into-large-mid-and-smallcap-funds",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1699076027Blogbanner.jpg",
     "date": "July 4, 2025",
-    "categories": ["Mutual Funds", "Investing", "Market Cap"],
+    "createdAt": "1720076980000",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Market Cap"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -204,10 +214,15 @@
   {
     "id": "9a449c4e-dbab-4c6f-9dcd-ab7fb5839013",
     "title": "Mutual Funds VS Traditional Investing",
-    "slug": "1720077646000",
+    "slug": "mutual-funds-vs-traditional-investing",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/169484417723.09.2023mfvstraditionalinvestment.png",
     "date": "July 4, 2025",
-    "categories": ["Mutual Funds", "Investing", "Comparison"],
+    "createdAt": "1720077646000",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Comparison"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -276,10 +291,16 @@
   {
     "id": "8bf108ef-1592-4a8e-b27f-e21a2e1489ad",
     "title": "SIP vs. Lumpsum: Choosing the Right Fuel for Your Mutual Fund Investment Journey",
-    "slug": "1720079010000",
+    "slug": "sip-vs-lumpsum-choosing-the-right-fuel-for-your-mutual-fund-investment-journey",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1714797430sipvslumpsum-01.png",
     "date": "July 4, 2025",
-    "categories": ["Mutual Funds", "Investing Strategies", "SIP", "Lumpsum"],
+    "createdAt": "1720079010000",
+    "categories": [
+      "Mutual Funds",
+      "Investing Strategies",
+      "SIP",
+      "Lumpsum"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -385,9 +406,10 @@
   {
     "id": "7a9b7e24-3eec-486d-881f-7ee1ee968d0f",
     "title": "Mutual Funds: The Accessible Investment for the Working Middle Class",
-    "slug": "1720079090000",
+    "slug": "mutual-funds-the-accessible-investment-for-the-working-middle-class",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/17172193941-01(5)(1).png",
     "date": "July 4, 2025",
+    "createdAt": "1720079090000",
     "categories": [
       "Mutual Funds",
       "Investing",
@@ -436,9 +458,10 @@
   {
     "id": "01369ae0-eb90-4502-b30e-a10d55e29211",
     "title": "Life After Retirement",
-    "slug": "1720079121000",
-    "date": "July 4, 2025",
+    "slug": "life-after-retirement",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1703064382lifeafterretirement-01.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720079121000",
     "categories": [
       "Retirement",
       "Financial Planning",
@@ -520,10 +543,16 @@
   {
     "id": "9966897c-d142-4d6f-81d7-a1aadaf2e01f",
     "title": "From Cricket Pitch to Financial Field: Mutual Funds Taking the Lead",
+    "slug": "from-cricket-pitch-to-financial-field-mutual-funds-taking-the-lead",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/170141106330.11.2023cricketpitch.png",
-    "slug": "1720079151000",
     "date": "July 4, 2025",
-    "categories": ["Mutual Funds", "Investing", "Analogy", "Cricket"],
+    "createdAt": "1720079151000",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Analogy",
+      "Cricket"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -588,9 +617,10 @@
   {
     "id": "5ebd5ce9-9acb-42b3-8dfd-591a354d25a0",
     "title": "The Butterfly Effect: Small Steps to Big Wealth, Thanks to Mutual Funds",
-    "slug": "1720079195000",
+    "slug": "the-butterfly-effect-small-steps-to-big-wealth-thanks-to-mutual-funds",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1702020198butterflyeffect-01.png",
     "date": "July 4, 2025",
+    "createdAt": "1720079195000",
     "categories": [
       "Mutual Funds",
       "Investing",
@@ -670,10 +700,16 @@
   {
     "id": "7c14bf57-7a28-4481-91a4-d50e8bf2c154",
     "title": "Financial Planning for Couples",
-    "slug": "1720079232000",
-    "date": "July 4, 2025",
+    "slug": "financial-planning-for-couples",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1702706202financialplanning-01.png",
-    "categories": ["Financial Planning", "Couples", "Budgeting", "Savings"],
+    "date": "July 4, 2025",
+    "createdAt": "1720079232000",
+    "categories": [
+      "Financial Planning",
+      "Couples",
+      "Budgeting",
+      "Savings"
+    ],
     "content": [
       {
         "type": "heading",
@@ -806,10 +842,16 @@
   {
     "id": "d03bd2e0-b72c-4928-ba0f-067813f5247f",
     "title": "Transform Your Extra Income: Best Areas for Mutual Fund Investments",
-    "slug": "1720079275000",
+    "slug": "transform-your-extra-income-best-areas-for-mutual-fund-investments",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1703917485transformyourextraincome-01.png",
     "date": "July 4, 2025",
-    "categories": ["Mutual Funds", "Investing", "Income", "Diversification"],
+    "createdAt": "1720079275000",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Income",
+      "Diversification"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -864,9 +906,10 @@
   {
     "id": "3a626131-618f-4777-94d2-96ffb51afa17",
     "title": "Navigating the Maze of Health Insurance: A Guide to Informed Decision-Making",
-    "slug": "1720079299000",
-    "date": "July 4, 2025",
+    "slug": "navigating-the-maze-of-health-insurance-a-guide-to-informed-decisionmaking",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1706166196healthinsurance-01.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720079299000",
     "categories": [
       "Health Insurance",
       "Financial Planning",
@@ -955,9 +998,10 @@
   {
     "id": "3ade4aa4-dd80-4c39-850d-22c313678f4c",
     "title": "From College Grad to Adulting: Your Guide to Getting Health Insurance",
-    "slug": "1720079330000",
-    "date": "July 4, 2025",
+    "slug": "from-college-grad-to-adulting-your-guide-to-getting-health-insurance",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1710573697healthinsurance.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720079330000",
     "categories": [
       "Health Insurance",
       "Graduates",
@@ -1070,10 +1114,15 @@
   {
     "id": "20439510-9997-4a2f-a596-7fc8543fe6d1",
     "title": "Common Mutual Fund Mistakes Investors Make and How to Avoid Them",
-    "slug": "1720079373000",
-    "date": "July 4, 2025",
+    "slug": "common-mutual-fund-mistakes-investors-make-and-how-to-avoid-them",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1713591539commonmistakes-01.jpg",
-    "categories": ["Mutual Funds", "Investing Mistakes", "Financial Planning"],
+    "date": "July 4, 2025",
+    "createdAt": "1720079373000",
+    "categories": [
+      "Mutual Funds",
+      "Investing Mistakes",
+      "Financial Planning"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -1160,6 +1209,7 @@
     "slug": "millennial-money-moves-navigating-mutual-funds-for-the-next-generation",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1708149747MillennialMoneyMoves.png",
     "date": "July 4, 2025",
+    "createdAt": "millennial-money-moves-navigating-mutual-funds-for-the-next-generation",
     "categories": [
       "Mutual Funds",
       "Millennials",
@@ -1269,10 +1319,15 @@
   {
     "id": "7a3ec686-bf30-478a-a7c4-65d01b557f65",
     "title": "Mutual Funds Decoded: Common Questions and Answers",
-    "slug": "1720079556000",
-    "date": "July 4, 2025",
+    "slug": "mutual-funds-decoded-common-questions-and-answers",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1704518563mutualfunddecoded-01(1).png",
-    "categories": ["Mutual Funds", "FAQ", "Investing Basics"],
+    "date": "July 4, 2025",
+    "createdAt": "1720079556000",
+    "categories": [
+      "Mutual Funds",
+      "FAQ",
+      "Investing Basics"
+    ],
     "content": [
       {
         "type": "heading",
@@ -1369,9 +1424,10 @@
   {
     "id": "8dd1a395-f6c2-47ad-9c19-feadc9bd67d8",
     "title": "The Imperative \"Why\" of Retirement Planning for Entrepreneurs",
-    "slug": "1720079600000",
+    "slug": "the-imperative-why-of-retirement-planning-for-entrepreneurs",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1706937713Retirementplanningforbusinessman-01.png",
     "date": "July 4, 2025",
+    "createdAt": "1720079600000",
     "categories": [
       "Retirement Planning",
       "Entrepreneurs",
@@ -1493,10 +1549,16 @@
   {
     "id": "a11dc26a-e7df-42a5-ab86-adbb8a892f4f",
     "title": "Mutual Funds versus Monopoly Game – Decoding the Best Moves",
-    "slug": "1720079626000",
+    "slug": "mutual-funds-versus-monopoly-game-decoding-the-best-moves",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1709294334MFVSmonopolygame-01.png",
     "date": "July 4, 2025",
-    "categories": ["Mutual Funds", "Investing", "Analogy", "Monopoly"],
+    "createdAt": "1720079626000",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Analogy",
+      "Monopoly"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -1531,9 +1593,10 @@
   {
     "id": "e51084fe-47a9-40a6-8979-e07d57be545f",
     "title": "Power of Compounding",
-    "slug": "1720079700000",
+    "slug": "power-of-compounding",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1689744500WhatsAppImage2023-07-18at11.05.14.jpg",
     "date": "July 4, 2025",
+    "createdAt": "1720079700000",
     "categories": [
       "Compounding",
       "Investing",
@@ -1637,9 +1700,10 @@
   {
     "id": "babc1ceb-1258-4883-8ea7-79bbe3d8116e",
     "title": "The Ultimate Guide to Top-up SIPs: Why Every Investor Should Consider this Smart Strategy",
-    "slug": "1720079761000",
-    "date": "July 4, 2025",
+    "slug": "the-ultimate-guide-to-topup-sips-why-every-investor-should-consider-this-smart-strategy",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1692423303SIPvsTOPUPsip-01.jpg",
+    "date": "July 4, 2025",
+    "createdAt": "1720079761000",
     "categories": [
       "Mutual Funds",
       "SIP",
@@ -1707,9 +1771,10 @@
   {
     "id": "1b4455e5-59a8-4f40-b712-7b0e9deb3e29",
     "title": "Unveiling the Secrets of Familiarity Bias",
-    "slug": "1720079794000",
+    "slug": "unveiling-the-secrets-of-familiarity-bias",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1693028733understandingfamiliaritybias-02.jpg",
     "date": "July 4, 2025",
+    "createdAt": "1720079794000",
     "categories": [
       "Behavioral Finance",
       "Investing",
@@ -1834,9 +1899,10 @@
   {
     "id": "5b717c7b-c9ad-42b3-89dc-ea6d7cdb0351",
     "title": "Mind over Money",
-    "slug": "1720079823000",
+    "slug": "mind-over-money",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1693633854Untitled-1-01.png",
     "date": "July 4, 2025",
+    "createdAt": "1720079823000",
     "categories": [
       "Financial Psychology",
       "Mindset",
@@ -1911,10 +1977,16 @@
   {
     "id": "bd910edb-e80b-4172-99b5-277e0954b7d1",
     "title": "Whether to go for mutual funds or PMS?",
-    "slug": "1720079907000",
-    "date": "July 4, 2025",
+    "slug": "whether-to-go-for-mutual-funds-or-pms",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/791whether_to_go_for_mutual_fund_or_PMS.png",
-    "categories": ["Mutual Funds", "PMS", "Investing", "Financial Services"],
+    "date": "July 4, 2025",
+    "createdAt": "1720079907000",
+    "categories": [
+      "Mutual Funds",
+      "PMS",
+      "Investing",
+      "Financial Services"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -1989,9 +2061,10 @@
   {
     "id": "7c3630d2-40ab-43e2-b634-9a530f132b63",
     "title": "Why Mutual Fund Investors Shouldn't Stop SIPs In This Economic Slowdown",
-    "slug": "1720079940000",
+    "slug": "why-mutual-fund-investors-shouldnt-stop-sips-in-this-economic-slowdown",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1681383217195blog_.jpg",
     "date": "July 4, 2025",
+    "createdAt": "1720079940000",
     "categories": [
       "Mutual Funds",
       "SIP",
@@ -2026,12 +2099,42 @@
           "Number of Units Bought"
         ],
         "rows": [
-          ["15th January", "Rs. 10000", "100", "100"],
-          ["15th February", "Rs. 10000", "95", "105.26"],
-          ["15th March", "Rs. 10000", "90", "111.11"],
-          ["15th April", "Rs. 10000", "85", "117.65"],
-          ["15th June", "Rs. 10000", "89", "112.36"],
-          ["15th July", "Rs. 10000", "92", "108.70"]
+          [
+            "15th January",
+            "Rs. 10000",
+            "100",
+            "100"
+          ],
+          [
+            "15th February",
+            "Rs. 10000",
+            "95",
+            "105.26"
+          ],
+          [
+            "15th March",
+            "Rs. 10000",
+            "90",
+            "111.11"
+          ],
+          [
+            "15th April",
+            "Rs. 10000",
+            "85",
+            "117.65"
+          ],
+          [
+            "15th June",
+            "Rs. 10000",
+            "89",
+            "112.36"
+          ],
+          [
+            "15th July",
+            "Rs. 10000",
+            "92",
+            "108.70"
+          ]
         ]
       },
       {
@@ -2067,9 +2170,21 @@
           "Your friend (10 years investment)"
         ],
         "rows": [
-          ["Total Investment", "Rs. 600000", "Rs. 1200000"],
-          ["Returns (@12% rate)", "Rs. 224864", "Rs. 1123391"],
-          ["Total value", "Rs. 824864", "Rs. 2323391"]
+          [
+            "Total Investment",
+            "Rs. 600000",
+            "Rs. 1200000"
+          ],
+          [
+            "Returns (@12% rate)",
+            "Rs. 224864",
+            "Rs. 1123391"
+          ],
+          [
+            "Total value",
+            "Rs. 824864",
+            "Rs. 2323391"
+          ]
         ]
       },
       {
@@ -2090,9 +2205,10 @@
   {
     "id": "2cabeb76-957d-4578-9eb0-511ad12da2d6",
     "title": "Can NRIs Invest in Mutual Funds in India?",
-    "slug": "1720079907000",
+    "slug": "can-nris-invest-in-mutual-funds-in-india",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1678690263CanNRIsInvestinMutualFundsinIndia.jpg",
     "date": "July 4, 2025",
+    "createdAt": "1720079907000",
     "categories": [
       "NRI Investing",
       "Mutual Funds",
@@ -2240,9 +2356,10 @@
   {
     "id": "ca5eed59-5313-47c5-b961-c011e7425bba",
     "title": "Stay Focused: Why Investment Discipline Matters in All Market Conditions",
-    "slug": "1720079980000",
-    "date": "July 4, 2025",
+    "slug": "stay-focused-why-investment-discipline-matters-in-all-market-conditions",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1720242575Stayfocused-01.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720079980000",
     "categories": [
       "Investing",
       "Mutual Funds",
@@ -2355,9 +2472,10 @@
   {
     "id": "f9905e14-59fc-4efe-a890-10596a389c6b",
     "title": "Navigating Market Ups and Downs: The Role of Mutual Funds",
-    "slug": "1720080000000",
-    "date": "July 4, 2025",
+    "slug": "navigating-market-ups-and-downs-the-role-of-mutual-funds",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1719641679NavigatingMarketUpsandDownsTheRoleofMutualFunds-01(1).png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080000000",
     "categories": [
       "Mutual Funds",
       "Market Volatility",
@@ -2452,9 +2570,10 @@
   {
     "id": "d0faca5f-4139-4ea4-b241-e06a2c51d10f",
     "title": "The Power of Compounding: How SIPs Can Turbocharge Your Mutual Fund Returns",
-    "slug": "1720080022000",
+    "slug": "the-power-of-compounding-how-sips-can-turbocharge-your-mutual-fund-returns",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1718453275Powerofcompounding2-01.png",
     "date": "July 4, 2025",
+    "createdAt": "1720080022000",
     "categories": [
       "Compounding",
       "SIP",
@@ -2560,9 +2679,10 @@
   {
     "id": "1f89d2a4-f8ba-40d9-bc04-7fc0d50109aa",
     "title": "Understand the Dynamics: Overnight Funds vs. Liquid Funds vs. Ultra Short-Term Funds",
-    "slug": "1720080080000",
+    "slug": "understand-the-dynamics-overnight-funds-vs-liquid-funds-vs-ultra-shortterm-funds",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1712383469understandingthedynamics-01.png",
     "date": "July 4, 2025",
+    "createdAt": "1720080080000",
     "categories": [
       "Mutual Funds",
       "Debt Funds",
@@ -2698,9 +2818,10 @@
   {
     "id": "5be12d84-72ea-40d0-9239-a3108def3bce",
     "title": "How Inflation Affects Your Investments & How Mutual Funds Can Help",
-    "slug": "1720080170000",
-    "date": "July 4, 2025",
+    "slug": "how-inflation-affects-your-investments-how-mutual-funds-can-help",
     "image": "/img/inflation-affect.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080170000",
     "categories": [
       "Inflation",
       "Investments",
@@ -2810,9 +2931,10 @@
   {
     "id": "80e5168d-06ef-48c4-af2a-8a647b39cb10",
     "title": "How to Stay Invested During Market Volatility Without Panic Selling",
-    "slug": "1720080315000",
-    "date": "July 4, 2025",
+    "slug": "how-to-stay-invested-during-market-volatility-without-panic-selling",
     "image": "/img/stay-invested.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080315000",
     "categories": [
       "Market Volatility",
       "Investing",
@@ -2937,9 +3059,10 @@
   {
     "id": "d8e1eeb1-b1d4-4ec6-9e85-38db99b89bf1",
     "title": "Unpacking the Benefits of Balance Advantage Funds for Investors",
-    "slug": "1720080345000",
-    "date": "July 4, 2025",
+    "slug": "unpacking-the-benefits-of-balance-advantage-funds-for-investors",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/169823105425.10.2023BalancedAdvantageFund-01.jpg",
+    "date": "July 4, 2025",
+    "createdAt": "1720080345000",
     "categories": [
       "Mutual Funds",
       "Balance Advantage Funds",
@@ -3025,9 +3148,10 @@
   {
     "id": "e31d0a44-9a2e-4805-bec3-fba990d456e1",
     "title": "Why Millennials Are Prioritizing Health Insurance in a Post-Pandemic World",
-    "slug": "1720080390000",
+    "slug": "why-millennials-are-prioritizing-health-insurance-in-a-postpandemic-world",
     "image": "/img/millenial.png",
     "date": "July 4, 2025",
+    "createdAt": "1720080390000",
     "categories": [
       "Health Insurance",
       "Millennials",
@@ -3113,9 +3237,10 @@
   {
     "id": "03d23fde-2d92-44d8-baeb-d9ac9da8d4d5",
     "title": "The Psychology of Investing: Overcoming Behavioral Biases for Smarter Decisions",
-    "slug": "1720080420000",
-    "date": "July 4, 2025",
+    "slug": "the-psychology-of-investing-overcoming-behavioral-biases-for-smarter-decisions",
     "image": "/img/psychology-investing.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080420000",
     "categories": [
       "Investing",
       "Behavioral Finance",
@@ -3246,9 +3371,10 @@
   {
     "id": "9264ec49-db85-4eab-8442-b6b35e4bb333",
     "title": "How to Beat Lifestyle Inflation and Build Lasting Wealth",
-    "slug": "1720080480000",
-    "date": "July 4, 2025",
+    "slug": "how-to-beat-lifestyle-inflation-and-build-lasting-wealth",
     "image": "/img/beat-lifestyle.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080480000",
     "categories": [
       "Lifestyle Inflation",
       "Wealth Management",
@@ -3341,9 +3467,10 @@
   {
     "id": "312943e2-78d3-462a-bfe5-bd2cfd39c35a",
     "title": "How Financial Experts Can Help You Maximize Returns from Mutual Funds",
-    "slug": "1720080510000",
-    "date": "July 4, 2025",
+    "slug": "how-financial-experts-can-help-you-maximize-returns-from-mutual-funds",
     "image": "/img/how-financial-experts.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080510000",
     "categories": [
       "Financial Planning",
       "Mutual Funds",
@@ -3433,9 +3560,10 @@
   {
     "id": "2e7c5ec5-7f8b-4182-9ffe-2aa21f1bdf5d",
     "title": "The Art of Inaction: Why Sometimes Doing Nothing is the Best Mutual Fund Strategy",
-    "slug": "1720080540000",
-    "date": "July 4, 2025",
+    "slug": "the-art-of-inaction-why-sometimes-doing-nothing-is-the-best-mutual-fund-strategy",
     "image": "https://blog-website-six-omega.vercel.app/img/art-of-inaction.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080540000",
     "categories": [
       "Mutual Funds",
       "Investment Strategy",
@@ -3556,9 +3684,10 @@
   {
     "id": "84fce4c7-1a28-47c1-871e-e785f089ef83",
     "title": "Investing With Purpose: How Mutual Funds Can Help You Achieve Your Goals",
-    "slug": "1720080600000",
+    "slug": "investing-with-purpose-how-mutual-funds-can-help-you-achieve-your-goals",
     "image": "/img/investing-with-purpose.png",
     "date": "July 4, 2025",
+    "createdAt": "1720080600000",
     "categories": [
       "Goal-Based Investing",
       "Mutual Funds",
@@ -3648,13 +3777,31 @@
       },
       {
         "type": "table",
-        "headers": ["Goal", "Suggested Mutual Fund Type"],
+        "headers": [
+          "Goal",
+          "Suggested Mutual Fund Type"
+        ],
         "rows": [
-          ["Emergency Fund", "Liquid or Ultra-Short-Term Debt Funds"],
-          ["Vacation or Car Purchase", "Short-Term Debt Funds"],
-          ["Buying a Home", "Hybrid Funds"],
-          ["Child's Education", "Equity Funds or Child-Specific Plans"],
-          ["Retirement", "Equity Funds via long-term SIPs"]
+          [
+            "Emergency Fund",
+            "Liquid or Ultra-Short-Term Debt Funds"
+          ],
+          [
+            "Vacation or Car Purchase",
+            "Short-Term Debt Funds"
+          ],
+          [
+            "Buying a Home",
+            "Hybrid Funds"
+          ],
+          [
+            "Child's Education",
+            "Equity Funds or Child-Specific Plans"
+          ],
+          [
+            "Retirement",
+            "Equity Funds via long-term SIPs"
+          ]
         ]
       },
       {
@@ -3701,9 +3848,10 @@
   {
     "id": "8b675eb9-757b-48cd-ad92-181255c93210",
     "title": "The Danger of Chasing High Returns: Why Balanced Investing Wins",
-    "slug": "1720080660000",
-    "date": "July 4, 2025",
+    "slug": "the-danger-of-chasing-high-returns-why-balanced-investing-wins",
     "image": "/img/chasing-high-return.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080660000",
     "categories": [
       "Investing",
       "High Returns",
@@ -3866,9 +4014,10 @@
   {
     "id": "f31bbde3-558d-4a6a-b2aa-99d81c1ee5e2",
     "title": "Avoiding the Hype: Why Mutual Funds Beat Impulse Investing",
-    "slug": "1720080720000",
-    "date": "July 4, 2025",
+    "slug": "avoiding-the-hype-why-mutual-funds-beat-impulse-investing",
     "image": "/img/avoiding-the-hype.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080720000",
     "categories": [
       "Mutual Funds",
       "FOMO Investing",
@@ -4046,9 +4195,10 @@
   {
     "id": "7bfcf4a4-461b-4cd4-a3e7-3dbd4cf50c25",
     "title": "How to Build a Diversified Portfolio with Mutual Funds",
-    "slug": "1720080780000",
-    "date": "July 4, 2025",
+    "slug": "how-to-build-a-diversified-portfolio-with-mutual-funds",
     "image": "https://newapps.anchoredge.in/branding/Content/Blogimage/thumb/1697194923divesifiedportfolio-01.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080780000",
     "categories": [
       "Mutual Funds",
       "Diversification",
@@ -4127,9 +4277,10 @@
   {
     "id": "31714571-6a33-4231-8a48-c62b505c81dd",
     "title": "Outsmarting Yourself: How to Beat Behavioural Biases in Investing",
-    "slug": "1720080840000",
+    "slug": "outsmarting-yourself-how-to-beat-behavioural-biases-in-investing",
     "image": "/img/outsmarting-yourself-how.png",
     "date": "July 4, 2025",
+    "createdAt": "1720080840000",
     "categories": [
       "Behavioral Biases",
       "Investing",
@@ -4216,9 +4367,10 @@
   {
     "id": "8406707f-f6e5-4851-a4f7-6312de3e7b38",
     "title": "Stay Focused: The Value of Discipline in Mutual Fund Investing",
-    "slug": "1720080900000",
+    "slug": "stay-focused-the-value-of-discipline-in-mutual-fund-investing",
     "image": "/img/stay-focused-the-vaule-discipline.png",
     "date": "July 4, 2025",
+    "createdAt": "1720080900000",
     "categories": [
       "Mutual Funds",
       "Investment Discipline",
@@ -4323,9 +4475,10 @@
   {
     "id": "0e79bb76-6805-4dc0-9872-26cd8299fe92",
     "title": "Understanding Overnight, Liquid & Ultra Short-Term Funds",
-    "slug": "1720080960000",
-    "date": "July 4, 2025",
+    "slug": "understanding-overnight-liquid-ultra-shortterm-funds",
     "image": "/img/understanding-overnight-liquid-funds.png",
+    "date": "July 4, 2025",
+    "createdAt": "1720080960000",
     "categories": [
       "Mutual Funds",
       "Debt Funds",
@@ -4419,7 +4572,13 @@
           "Suitable For"
         ],
         "rows": [
-          ["Overnight Fund", "Very Low", "Next-day", "Low", "1–2 day parking"],
+          [
+            "Overnight Fund",
+            "Very Low",
+            "Next-day",
+            "Low",
+            "1–2 day parking"
+          ],
           [
             "Liquid Fund",
             "Low",
@@ -4454,9 +4613,10 @@
   {
     "id": "faa6e030-fa0f-442a-b33e-12ec9c84e9ba",
     "title": "Millennial Money Moves: Mutual Funds Made Simple",
-    "slug": "1720081020000",
+    "slug": "millennial-money-moves-mutual-funds-made-simple",
     "image": "/img/millenial-money-moves.png",
     "date": "July 4, 2025",
+    "createdAt": "1720081020000",
     "categories": [
       "Millennials",
       "Mutual Funds",
@@ -4558,9 +4718,10 @@
   {
     "id": "8a0c98f6-414e-4f16-b8bb-b2ff4d941b7e",
     "title": "Mutual Funds vs. Monopoly: Making the Right Moves",
-    "slug": "1720081080000",
+    "slug": "mutual-funds-vs-monopoly-making-the-right-moves",
     "image": "/img/monoploy-vs-mutual-funds.png",
     "date": "July 4, 2025",
+    "createdAt": "1720081080000",
     "categories": [
       "Mutual Funds",
       "Investing Analogy",
@@ -4598,10 +4759,15 @@
   {
     "id": "c9a500bf-c06f-4e3c-8ad1-dc319a526658",
     "title": "Smart Strategies: Diversifying Your Investments for Long-Term Success",
-    "slug": "1754124448000",
+    "slug": "smart-strategies-diversifying-your-investments-for-longterm-success",
     "image": "/img/diversifying-your-investments.png",
     "date": "August 2, 2025",
-    "categories": ["Mutual Funds", "Investing", "Market Cap"],
+    "createdAt": "1754124448000",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Market Cap"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4653,10 +4819,15 @@
   {
     "id": "c9a500bf-c06f-4e3c-8ad1-dc319a526659",
     "title": "Risk vs Reward: Finding the Right Balance in Your Investment Portfolio",
-    "slug": "1754124448001",
+    "slug": "risk-vs-reward-finding-the-right-balance-in-your-investment-portfolio",
     "image": "/img/risk-vs-reward.png",
     "date": "August 2, 2025",
-    "categories": ["Mutual Funds", "Investing", "Market Cap"],
+    "createdAt": "1754124448001",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Market Cap"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4712,10 +4883,15 @@
   {
     "id": "c9a500bf-c06f-4e3c-8ad1-dc319a526661",
     "title": "Maximising Returns: A Beginner’s Guide to Equity Mutual Funds",
-    "slug": "1754124800000",
+    "slug": "maximising-returns-a-beginners-guide-to-equity-mutual-funds",
     "image": "/img/maximizing-returns.png",
     "date": "August 2, 2025",
-    "categories": ["Mutual Funds", "Investing", "Market Cap"],
+    "createdAt": "1754124800000",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Market Cap"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4793,10 +4969,15 @@
   {
     "id": "c9a500bf-c06f-4e3c-8ad1-dc319a526662",
     "title": "The Power of SIPs: How Small Investments Can Lead to Big Gains",
-    "slug": "1754124800003",
+    "slug": "the-power-of-sips-how-small-investments-can-lead-to-big-gains",
     "image": "/img/power-of-sip.png",
     "date": "August 2, 2025",
-    "categories": ["Mutual Funds", "Investing", "SIP"],
+    "createdAt": "1754124800003",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "SIP"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4866,10 +5047,15 @@
   {
     "id": "c9a500bf-c06f-4e3c-8ad1-dc319a526663",
     "title": "Market Volatility: Tips for Staying Calm During Market Fluctuations",
-    "slug": "1754124800004",
+    "slug": "market-volatility-tips-for-staying-calm-during-market-fluctuations",
     "image": "/img/market-volatility.png",
     "date": "August 2, 2025",
-    "categories": ["Mutual Funds", "Investing", "Market Cap"],
+    "createdAt": "1754124800004",
+    "categories": [
+      "Mutual Funds",
+      "Investing",
+      "Market Cap"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4923,13 +5109,13 @@
       }
     ]
   },
-
   {
     "id": "0e79bb76-6805-4dc0-9872-26cd8299fe93",
     "title": "Bond Risks and Hedging: Your Complete Guide to Safe Investing in India",
-    "slug": "1756475971123",
-    "date": "August 28, 2025",
+    "slug": "bond-risks-and-hedging-your-complete-guide-to-safe-investing-in-india",
     "image": "/img/understanding-bond-risks-hedging.jpg",
+    "date": "August 28, 2025",
+    "createdAt": "1756475971123",
     "categories": [
       "Mutual Funds",
       "Debt Funds",
@@ -5003,9 +5189,10 @@
   {
     "id": "2768d712-4f30-4e31-89e7-f1c504b8d789",
     "title": "Can You Trust AI with Your Money? A Deep Dive into AI in Wealth Management in India",
-    "slug": "1756475971124",
-    "date": "August 28, 2025",
+    "slug": "can-you-trust-ai-with-your-money-a-deep-dive-into-ai-in-wealth-management-in-india",
     "image": "/img/ai-wealth-management-india.jpg",
+    "date": "August 28, 2025",
+    "createdAt": "1756475971124",
     "categories": [
       "AI",
       "Wealth Management",
@@ -5059,9 +5246,10 @@
   {
     "id": "76d8b671-5c02-4c28-98e3-0c4f8287e078",
     "title": "What is a Consolidated Account Statement (CAS) & Why It Matters in 2025",
-    "slug": "1756475971125",
-    "date": "August 28, 2025",
+    "slug": "what-is-a-consolidated-account-statement-cas-why-it-matters-in-2025",
     "image": "/img/consolidated-account-statement-cas.jpg",
+    "date": "August 28, 2025",
+    "createdAt": "1756475971125",
     "categories": [
       "Financial Planning",
       "Mutual Funds",
@@ -5122,9 +5310,10 @@
   {
     "id": "84d5f492-3a56-4b21-8f90-1c5c08d2b993",
     "title": "Passive Income Ideas in India in 2025: Your Path to Financial Freedom",
-    "slug": "1756475971126",
-    "date": "August 28, 2025",
+    "slug": "passive-income-ideas-in-india-in-2025-your-path-to-financial-freedom",
     "image": "/img/passive-income-india-2025.jpg",
+    "date": "August 28, 2025",
+    "createdAt": "1756475971126",
     "categories": [
       "Financial Planning",
       "Investing",
@@ -5186,9 +5375,10 @@
   {
     "id": "e4a2c0f1-8b9a-4d33-90d7-0c7f21e5e062",
     "title": "7 Common Investment Mistakes And How To Avoid Them",
-    "slug": "1756475971127",
-    "date": "August 28, 2025",
+    "slug": "7-common-investment-mistakes-and-how-to-avoid-them",
     "image": "/img/7-common-investment-mistakes.jpg",
+    "date": "August 28, 2025",
+    "createdAt": "1756475971127",
     "categories": [
       "Financial Planning",
       "Investing",

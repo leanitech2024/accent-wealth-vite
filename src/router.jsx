@@ -5,21 +5,27 @@ import BlogDetail from './components/BlogDetails';
 import fetchBlogPostData from './data';
 import Loader from './components/Loader';
 
+// Load blog list
 const blogListLoader = async () => {
   await new Promise((resolve) => setTimeout(resolve, 300));
   const data = await fetchBlogPostData();
 
+  // Sort by createdAt (OLDER slug/timestamp)
   const sortedBlogs = [...data].sort((a, b) => {
-    const timestampA = parseInt(a.slug);
-    const timestampB = parseInt(b.slug);
+    const timestampA = parseInt(a.createdAt);
+    const timestampB = parseInt(b.createdAt);
     return timestampB - timestampA;
   });
+
   return { blogs: sortedBlogs };
 };
+
 
 const blogDetailLoader = async ({ params }) => {
   await new Promise((resolve) => setTimeout(resolve, 300));
   const data = await fetchBlogPostData();
+
+
   const blog = data.find((b) => b.slug === params.slug);
 
   if (!blog) {
@@ -28,6 +34,7 @@ const blogDetailLoader = async ({ params }) => {
   return { blog };
 };
 
+// Router
 const router = createBrowserRouter([
   {
     path: '/',
